@@ -1,5 +1,5 @@
 **/dist
-**/.zip
+**/*.zip
 **/.DS_Store
 **/node_modules
 **/package
@@ -8,3 +8,6 @@
 /deployment/open-source/
 source/tests/__pycache__/
 source/log_parser/__pycache__/
+**/lib/
+env/
+
